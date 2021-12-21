@@ -1,85 +1,229 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Massively by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-[Start Bootstrap - Freelancer](https://startbootstrap.com/theme/freelancer/)
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-[Freelancer](https://startbootstrap.com/theme/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
+				<!-- Intro -->
+					<div id="intro">
+						<h1>This is<br />
+						Massively</h1>
+						<p>A free, fully responsive HTML5 + CSS3 site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a><br />
+						and released for free under the <a href="https://html5up.net/license">Creative Commons license</a>.</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
 
-## Preview
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Massively</a>
+					</header>
 
-[![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">This is Massively</a></li>
+							<li><a href="generic.html">Generic Page</a></li>
+							<li><a href="elements.html">Elements Reference</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-freelancer/)**
+				<!-- Main -->
+					<div id="main">
 
-## Status
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date">April 25, 2017</span>
+									<h2><a href="#">And this is a<br />
+									massive headline</a></h2>
+									<p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
+									facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
+									amet nullam sed etiam veroeros.</p>
+								</header>
+								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="#" class="button large">Full Story</a></li>
+								</ul>
+							</article>
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-freelancer/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-freelancer.svg)](https://www.npmjs.com/package/startbootstrap-freelancer)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-freelancer/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-freelancer)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-freelancer/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-freelancer?type=dev)
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<span class="date">April 24, 2017</span>
+										<h2><a href="#">Sed magna<br />
+										ipsum faucibus</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">April 22, 2017</span>
+										<h2><a href="#">Primis eget<br />
+										imperdiet lorem</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">April 18, 2017</span>
+										<h2><a href="#">Ante mattis<br />
+										interdum dolor</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">April 14, 2017</span>
+										<h2><a href="#">Tempus sed<br />
+										nulla imperdiet</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">April 11, 2017</span>
+										<h2><a href="#">Odio magna<br />
+										sed consectetur</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">April 7, 2017</span>
+										<h2><a href="#">Augue lorem<br />
+										primis vestibulum</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+							</section>
 
-## Download and Installation
+						<!-- Footer -->
+							<footer>
+								<div class="pagination">
+									<!--<a href="#" class="previous">Prev</a>-->
+									<a href="#" class="page active">1</a>
+									<a href="#" class="page">2</a>
+									<a href="#" class="page">3</a>
+									<span class="extra">&hellip;</span>
+									<a href="#" class="page">8</a>
+									<a href="#" class="page">9</a>
+									<a href="#" class="page">10</a>
+									<a href="#" class="next">Next</a>
+								</div>
+							</footer>
 
-To begin using this template, choose one of the following options to get started:
+					</div>
 
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/freelancer/)
-- Install using npm: `npm i startbootstrap-freelancer`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-freelancer.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-freelancer)
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>1234 Somewhere Road #87257<br />
+								Nashville, TN 00000-0000</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(000) 000-0000</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">info@untitled.tld</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
 
-## Usage
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
 
-### Basic Usage
+			</div>
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-### Advanced Usage
-
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
-
-#### npm Scripts
-
-- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-- `npm run start:debug` runs the project in debug mode
-- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
-
-You must have npm installed in order to use this build environment.
-
-### Contact Form
-
-The contact form available with this theme is prebuilt to use [SB Forms](https://startbootstrap.com/solution/contact-forms).
-SB Forms is a simple form solution for adding functional forms to your theme. Since this theme is prebuilt using our
-SB Forms markup, all you need to do is sign up for [SB Forms on Start Bootstrap](https://startbootstrap.com/solution/contact-forms).
-
-After signing up you will need to set the domain name your form will be used on, and you will then see your
-access key. Copy this and paste it into the `data-sb-form-api-token='API_TOKEN'` data attribute in place of
-`API_TOKEN`. That's it! Your forms will be up and running!
-
-If you aren't using SB Forms, simply delete the custom data attributes from the form, and remove the link above the
-closing `</body>` tag to SB Forms.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/freelancer/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-- <https://startbootstrap.com>
-- <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
-
-- <https://davidmiller.io>
-- <https://twitter.com/davidmillerhere>
-- <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE) license.
+	</body>
+</html>
